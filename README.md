@@ -8,17 +8,6 @@ Transform your typing experience by triggering high-quality mechanical keyboard 
 * Low Latency: Utilizes multi-threading to ensure sounds play instantly without lagging your typing.  
 * Anti-Repeat Logic: Prevents sound "stuttering" when holding down a key.  
 
-## 📂 Project Structure
-Plaintext
-.
-├── audio/
-│   ├── keyboard_click_1.wav
-│   ├── keyboard_click_2.wav
-│   └── ... (8 total audio files)
-├── thocc.py       # Python implementation
-└── Thocc.java     # Java implementation
-
-
 ## 🚀 Getting Started (Python)
 Prerequisites
 You will need the pynput and simpleaudio libraries.  
