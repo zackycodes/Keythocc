@@ -1,7 +1,7 @@
 # ⌨️ Keythocc: Mechanical Keyboard Sound Emulator
 Transform your typing experience by triggering high-quality mechanical keyboard sounds with every keystroke. Whether you're using the Python implementation for simplicity or the Java version for performance, ThoccBoard brings the "thocc" to any setup.
 
-## 🛠️ Features
+## ✨ Features
 * Multi-Language Support: Choose between Python and Java implementations.  
 * Dynamic Sound Selection: Randomly assigns unique click sounds to different keys for a realistic, non-repetitive acoustic profile.  
 * WPM Tracker: Built-in Words Per Minute (WPM) calculator accessible via hotkeys.  
