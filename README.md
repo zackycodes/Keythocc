@@ -12,13 +12,15 @@ Transform your typing experience by triggering high-quality mechanical keyboard 
 Prerequisites
 You will need the pynput and simpleaudio libraries.  
 
-`Bash pip install pynput simpleaudio`
+`Bash 
+pip install pynput simpleaudio`
 
 Usage
 Ensure your .wav files are placed in the audio/ directory.
 Run the script:
 
-`Bash python thocc.py`
+`Bash
+python thocc.py`
 Control:
 
 * Esc: Exit the program.  
